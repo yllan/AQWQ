@@ -191,6 +191,8 @@ Hint: 我們可以來觀察，+1 對 bit pattern有什麼影響？
 
 如果一個數字的binary pattern是 `*****0111111` （前面不管），+1 以後會變怎樣？
 
+恭喜，到這裡，你應該可以看懂 [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) 或 [Hacker's Delight](https://www.amazon.com/Hackers-Delight-2nd-Henry-Warren/dp/0321842685) 的內容了。
+
 ## bitwise的應用
 
 知道基本的bitwise操作，寫和硬體溝通、底層的protocol、實作UTF-8轉換、壓縮演算法、二進位檔案格式⋯⋯。寫程式真的會用到。
